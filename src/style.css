@@ -1,0 +1,16 @@
+*{
+    box-sizing:content-box;
+    border-color: black;
+    width: 200px;
+}
+body{
+    margin:10px 10px;
+    background-image:url("5591276.jpg");
+}
+.form{
+    background-color: rgb(95, 72, 226);
+    border:5px solid skyblue;
+    text-align: center;
+    margin: 20px;
+    padding: 20px 60px 20px 20px;
+}
